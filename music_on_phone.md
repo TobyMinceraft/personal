@@ -1,61 +1,61 @@
 > [!NOTE]
 > This is not a full list of the songs currently on my phone, just a list of songs added since May 28th
 
-Aaron Cherof
+- Aaron Cherof
     - Precipice (Minecraft: Tricky Trials Soundtrack)
-ABBA
+- ABBA
     - Dancing Queen
     - Take A Chance On Me
     - Mamma Mia
     - Fernando
-Aerosmith
+- Aerosmith
     - Dream On
-Alfred Yankovic
+- Alfred Yankovic
     - eBay
-Alphaville
+- Alphaville
     - Forever Young
-Bag Raiders
+- Bag Raiders
     - Shooting Stars
-Bee Gees
+- Bee Gees
     - You Should be Dancing
     - Stayin' Alive
     - Jive Talkin'
     - Night Fever (From "Saturday Night Fever" Soundtrack)
     - More Than A Woman (From "Saturday Night Fever" Soundtrack)
     - If I Can't Have You
-Bill Medley
+- Bill Medley
     - \[I've Had\] The Time of My Life
-Coldplay
+- Coldplay
     - Every Teardrop Is a Waterfall
-Culture Club
+- Culture Club
     - Karma Chameleon
-Dexys Midnight Runners
+- Dexys Midnight Runners
     - Come On Eileen
-Dire Straits
+- Dire Straits
     - So Far Away
     - Money For Nothing
     - Walk of Life
-Dolly Parton
+- Dolly Parton
     - Coat of Many Colors
     - 9 to 5
     - I Will Always Love You
-Don Henley
+- Don Henley
     - The Boys of Summer
     - The Heart of the Matter
-Duran Duran
+- Duran Duran
     - Hungry Like The Wolf
     - Ordinary World
-Earth, Wind & Fire
+- Earth, Wind & Fire
     - September
-Eddy Grant
+- Eddy Grant
     - Electric Avenue
-ELO
+- ELO
     - Evil Woman
     - Don't Bring Me Down
     - Turn to Stone
     - Livin' Thing
     - Strange Magic
-Elton John
+- Elton John
     - Rocket Man (I Think It's Gonna Be A Long, Long Time)
     - Crocodile Rock
     - Candle In the Wind
@@ -63,57 +63,57 @@ Elton John
     - I Guess That's Why They Call It The Blues
     - Sad Songs (Say So Much)
     - I Don't Wanna Go On With You Like That
-Foreigner
+- Foreigner
     - Urgent
-Franz Ferdinand
+- Franz Ferdinand
     - Take Me Out
-Genesis (Phil Collins)
+- Genesis (Phil Collins)
     - Throwing It All Away
     - That's All
-Huey Lewis and The News
+- Huey Lewis and The News
     - Stuck With You
     - Doing It All For My Baby
     - If This Is It
-Imagine Dragons
+- Imagine Dragons
     - Follow You
-Jefferson Starship
+- Jefferson Starship
     - Find Your Way Back
     - Laying It On The Line
-JensterG
+- JensterG
     - "NEWT" Opening Theme (from "NEWT: The Animated Series")
-Johnny Cash
+- Johnny Cash
     - I Walk The Line
     - Get Rhytm
     - Ballad of a Teenage Queen
     - Ring of Fire
     - Folsom Prison Blues (Live at Folsom State Prison, CA)
-Journey
+- Journey
     - Any Way You Want It
-JQHN
+- JQHN
     - Michael Jackson "Thriller" [Super Mario 64 Soundfont Cover]
-KISS
+- KISS
     - I Was Made for Lovin' You
-Lena Raine
+- Lena Raine
     - otherside (Minecraft: Caves & Cliffs)
     - Creator (Minecraft: Tricky Trials)
-Limahl
+- Limahl
     - Never Ending Story
-Linkin Park
+- Linkin Park
     - What I've Done
     - One More Light
-Malinda Kathleen Reese (Google Translate Sings)
+- Malinda Kathleen Reese (Google Translate Sings)
     - ABBA Medley
     - All Star
     - Never Gonna Give You Up
     - Shawn Mendes Medley
     - Take Me Home, Country Roads
     - The Wellerman (Sea Shanty)
-Men At Work
+- Men At Work
     - Who Can It Be Now?
     - Down Under
-Metric
+- Metric
     - Speed The Collapse
-Michael Jackson
+- Michael Jackson
     - They Don't Care About Us
     - Don't Stop 'Til You Get Enough
     - Bad
@@ -122,26 +122,26 @@ Michael Jackson
     - You Are Not Alone
     - Wanna Be Startin' Somethin'
     - Thriller
-Naked Eyes
+- Naked Eyes
     - Always Something There To Remind Me
-New Albany Music
+- New Albany Music
     - Lord of Glory (ft. Twenty One Pilots)
-NF
+- NF
     - Fear
     - Home
     - Give Me A Reason
     - Sorry
     - Washed Up
-Niall Horan
+- Niall Horan
     - Nice to Meet Ya
-Nick Lutsko
+- Nick Lutsko
     - Software
-One Republic
+- One Republic
     - All The Right Moves
-Passenger
+- Passenger
     - Let Her Go (feat. Ed Sheeran)
     - Sword from the Stone
-Patrick Patrikios
+- Patrick Patrikios
     - Average
     - Cold Water
     - Cover
@@ -150,15 +150,15 @@ Patrick Patrikios
     - Love Aside
     - Moons
     - Project
-Pet Shop Boys
+- Pet Shop Boys
     - Opportunities (Let's Make Lots of Money)
     - It's A Sin
     - Always On My Mind
-Phil Collins
+- Phil Collins
     - Don't Lose My Number
     - Take Me Home
     - You Can't Hurry Love
-Phil Whickam
+- Phil Whickam
     - So So Good
     - Able
     - What An Awesome God
@@ -175,7 +175,7 @@ Phil Whickam
     - Miracle Maker
     - Wondrous Cross
     - The Stand (Amen)\
-Queen
+- Queen
     - We Will Rock You
     - We Are The Champions
     - Radio Ga Ga
@@ -184,27 +184,27 @@ Queen
     - Don't Stop Me Now
     - Somebody To Love
     - Bohemian Rhapsody
-Recordcollector1972
+- Recordcollector1972
     - Gives You Hell (Waking Up)
-Red Vox
+- Red Vox
     - Playing By the Rules
     - In The Garden
     - Be Someone Forever
     - Stranded
     - Winning the Most
-Roy Orbison
+- Roy Orbison
     - Only The Lonely
     - Crying
     - Dream Baby (How Long Must I Dream)
     - Oh, Pretty Woman
     - You Got It
     - In Dreams
-RUNAGROUND
+- RUNAGROUND
     - Rude
     - Unconditionally ("Katy Perry" Cover)
     - Where Do I Begin
     - I'll Be There
-SiIvaGunner
+- SiIvaGunner
     - Banjo-Kazooie
         - Company Logos
         - Bubblegloop Swamp (All-Star Mix)
@@ -224,25 +224,25 @@ SiIvaGunner
     - Super Mario World 2: Yoshi's Island
         - Athletic Theme (Alternate Mix)
         - Flower Garden (PAL Version) (GBA)
-SimpleFlips
+- SimpleFlips
     - Dire Dire Docks Piano "Cover" / Inspired Improv
-Starship
+- Starship
     - We Built This City
     - Sara
-Stephen Sanchez
+- Stephen Sanchez
     - Until I Found You
-Steve Miller Band
+- Steve Miller Band
     - Fly Like An Eagle
     - Jet Airliner
-Steve Winwood
+- Steve Winwood
     - Higher Love
-Survivor
+- Survivor
     - Eye of the Tiger
     - I Can't Hold Back
     - High On You
     - Burning Heart
     - Is This Love
-Tally Hall
+- Tally Hall
     - Just A Friend
     - Good Day (Radio Version)
     - Greener (Radio Version)
@@ -251,32 +251,32 @@ Tally Hall
     - Ruler of Everything (Radio Version)
     - Just Apathy (2005 Release)
     - Haiku (2005 Release)
-Tears For Fears
+- Tears For Fears
     - Everybody Wants To Rule The World
-The Beach Boys
+- The Beach Boys
     - Good Vibrations
     - Wouldn't It Be Nice
     - Fun, Fun, Fun
     - Surfin' USA
     - Help Me, Rhonda
     - Kokomo
-The J. Geils Band
+- The J. Geils Band
     - Centerfold
-The Police
+- The Police
     - Message In A Bottle (S.O.S. To The World)
     - Don't Stand So Close To Me
     - Every Little Thing She Does Is Magic
     - Every Breath You Take
-The Romantics
+- The Romantics
     - Talking In Your Sleep
     - What I Like About You
-The Strokes
+- The Strokes
     - The Adults Are Talking
-There I Ruined It
+- There I Ruined It
     - Africa (Toto)...but it's every country in Africa
-Tommy Tutone
+- Tommy Tutone
     - 867-5309 / Jenny
-Twenty One Pilots
+- Twenty One Pilots
     - The Line (LIVE at The Game Awards 2024) [Arcane League of Legends]
     - City Walls
     - RAWFEAR
@@ -295,7 +295,7 @@ Twenty One Pilots
     - I Need Something [Level of Concern]
     - Doubt (demo)
     - O Come, O Come, Emmanuel (LIVE at Five14 Church, Columbus, OH)
-Weezer
+- Weezer
     - Perfect Situation
     - Grapes of Wrath
     - La Muncha Screwjob
@@ -305,7 +305,7 @@ Weezer
     - Africa (ft. Weird Al)
     - Surf Wax America (2024 Remaster)
     - Holiday (2024 Remaster)
-Yes
+- Yes
     - Owner of a Lonely Heart
     - It Can Happen
     - Changes
