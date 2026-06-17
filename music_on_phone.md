@@ -1,57 +1,61 @@
 > [!NOTE]
 > This is not a full list of the songs currently on my phone, just a list of songs added since May 28th
 
-1. Aaron Cherof
+Aaron Cherof
     - Precipice (Minecraft: Tricky Trials Soundtrack)
-2. ABBA
+ABBA
     - Dancing Queen
     - Take A Chance On Me
     - Mamma Mia
     - Fernando
-3. Aerosmith
+Aerosmith
     - Dream On
-4. Alphaville
+Alfred Yankovic
+    - eBay
+Alphaville
     - Forever Young
-5. Bee Gees
+Bag Raiders
+    - Shooting Stars
+Bee Gees
     - You Should be Dancing
     - Stayin' Alive
     - Jive Talkin'
     - Night Fever (From "Saturday Night Fever" Soundtrack)
     - More Than A Woman (From "Saturday Night Fever" Soundtrack)
     - If I Can't Have You
-6. Bill Medley
+Bill Medley
     - \[I've Had\] The Time of My Life
-7. Coldplay
+Coldplay
     - Every Teardrop Is a Waterfall
-8. Culture Club
+Culture Club
     - Karma Chameleon
-9. Dexys Midnight Runners
+Dexys Midnight Runners
     - Come On Eileen
-10. Dire Straits
+Dire Straits
     - So Far Away
     - Money For Nothing
     - Walk of Life
-11. Dolly Parton
+Dolly Parton
     - Coat of Many Colors
     - 9 to 5
     - I Will Always Love You
-12. Don Henley
+Don Henley
     - The Boys of Summer
     - The Heart of the Matter
-13. Duran Duran
+Duran Duran
     - Hungry Like The Wolf
     - Ordinary World
-14. Earth, Wind & Fire
+Earth, Wind & Fire
     - September
-15. Eddy Grant
+Eddy Grant
     - Electric Avenue
-16. ELO
+ELO
     - Evil Woman
     - Don't Bring Me Down
     - Turn to Stone
     - Livin' Thing
     - Strange Magic
-17. Elton John
+Elton John
     - Rocket Man (I Think It's Gonna Be A Long, Long Time)
     - Crocodile Rock
     - Candle In the Wind
@@ -59,51 +63,57 @@
     - I Guess That's Why They Call It The Blues
     - Sad Songs (Say So Much)
     - I Don't Wanna Go On With You Like That
-18. Foreigner
+Foreigner
     - Urgent
-
-19. Genesis (Phil Collins)
+Franz Ferdinand
+    - Take Me Out
+Genesis (Phil Collins)
     - Throwing It All Away
     - That's All
-20. Huey Lewis and The News
+Huey Lewis and The News
     - Stuck With You
     - Doing It All For My Baby
     - If This Is It
-21. Imagine Dragons
+Imagine Dragons
     - Follow You
-22. Jefferson Starship
+Jefferson Starship
     - Find Your Way Back
     - Laying It On The Line
-23. JensterG
+JensterG
     - "NEWT" Opening Theme (from "NEWT: The Animated Series")
-24. Johnny Cash
+Johnny Cash
     - I Walk The Line
     - Get Rhytm
     - Ballad of a Teenage Queen
     - Ring of Fire
     - Folsom Prison Blues (Live at Folsom State Prison, CA)
-25. Journey
+Journey
     - Any Way You Want It
-26. JQHN
+JQHN
     - Michael Jackson "Thriller" [Super Mario 64 Soundfont Cover]
-27. KISS
+KISS
     - I Was Made for Lovin' You
-28. Lena Raine
+Lena Raine
     - otherside (Minecraft: Caves & Cliffs)
     - Creator (Minecraft: Tricky Trials)
-29. Limahl
+Limahl
     - Never Ending Story
-30. Malinda Kathleen Reese (Google Translate Sings)
+Linkin Park
+    - What I've Done
+    - One More Light
+Malinda Kathleen Reese (Google Translate Sings)
     - ABBA Medley
     - All Star
     - Never Gonna Give You Up
     - Shawn Mendes Medley
     - Take Me Home, Country Roads
     - The Wellerman (Sea Shanty)
-31. Men At Work
+Men At Work
     - Who Can It Be Now?
     - Down Under
-32. Michael Jackson
+Metric
+    - Speed The Collapse
+Michael Jackson
     - They Don't Care About Us
     - Don't Stop 'Til You Get Enough
     - Bad
@@ -112,20 +122,26 @@
     - You Are Not Alone
     - Wanna Be Startin' Somethin'
     - Thriller
-33. Naked Eyes
+Naked Eyes
     - Always Something There To Remind Me
-34. New Albany Music
+New Albany Music
     - Lord of Glory (ft. Twenty One Pilots)
-35. NF
+NF
     - Fear
     - Home
     - Give Me A Reason
     - Sorry
     - Washed Up
-36. Passenger
+Niall Horan
+    - Nice to Meet Ya
+Nick Lutsko
+    - Software
+One Republic
+    - All The Right Moves
+Passenger
     - Let Her Go (feat. Ed Sheeran)
     - Sword from the Stone
-37. Patrick Patrikios
+Patrick Patrikios
     - Average
     - Cold Water
     - Cover
@@ -134,15 +150,15 @@
     - Love Aside
     - Moons
     - Project
-38. Pet Shop Boys
+Pet Shop Boys
     - Opportunities (Let's Make Lots of Money)
     - It's A Sin
     - Always On My Mind
-39. Phil Collins
+Phil Collins
     - Don't Lose My Number
     - Take Me Home
     - You Can't Hurry Love
-40. Phil Whickam
+Phil Whickam
     - So So Good
     - Able
     - What An Awesome God
@@ -159,7 +175,7 @@
     - Miracle Maker
     - Wondrous Cross
     - The Stand (Amen)\
-41. Queen
+Queen
     - We Will Rock You
     - We Are The Champions
     - Radio Ga Ga
@@ -168,43 +184,65 @@
     - Don't Stop Me Now
     - Somebody To Love
     - Bohemian Rhapsody
-42. Roy Orbison
+Recordcollector1972
+    - Gives You Hell (Waking Up)
+Red Vox
+    - Playing By the Rules
+    - In The Garden
+    - Be Someone Forever
+    - Stranded
+    - Winning the Most
+Roy Orbison
     - Only The Lonely
     - Crying
     - Dream Baby (How Long Must I Dream)
     - Oh, Pretty Woman
     - You Got It
     - In Dreams
-43. RUNAGROUND
+RUNAGROUND
     - Rude
     - Unconditionally ("Katy Perry" Cover)
     - Where Do I Begin
     - I'll Be There
-44. SiIvaGunner
-    - [BK]   Bubblegloop Swamp [All-Star Mix]
-    - [BK]   Freezeezy Peak [NA Version]
-    - [BK]   Gobi's Valley [OST Version]
-    - [BK]   Gruntilda's Lair [AOSTH DEMO]
-    - [SM64] Slider (Number One Mix)
-45. SimpleFlips
+SiIvaGunner
+    - Banjo-Kazooie
+        - Company Logos
+        - Bubblegloop Swamp (All-Star Mix)
+        - Freezeezy Peak (NA Version)
+        - Gobi's Valley (OST Version)
+        - Gruntilda's Lair (AOSTH DEMO)
+        - Gruntilda's Lair (Treasure Trove Cove)
+        - Main Title (Remastered)
+        - Mumbo's Mountain
+    - Banjo-Tooie
+        - Grunty Industries (Inside the Factory)
+        - Jolly Roger's Lagoon
+    - Star Fox 64
+        - Opening Theme
+    - Super Mario 64
+        - Slider (Number One Mix)
+    - Super Mario World 2: Yoshi's Island
+        - Athletic Theme (Alternate Mix)
+        - Flower Garden (PAL Version) (GBA)
+SimpleFlips
     - Dire Dire Docks Piano "Cover" / Inspired Improv
-46. Starship
+Starship
     - We Built This City
     - Sara
-47. Stephen Sanchez
+Stephen Sanchez
     - Until I Found You
-48. Steve Miller Band
+Steve Miller Band
     - Fly Like An Eagle
     - Jet Airliner
-49. Steve Winwood
+Steve Winwood
     - Higher Love
-50. Survivor
+Survivor
     - Eye of the Tiger
     - I Can't Hold Back
     - High On You
     - Burning Heart
     - Is This Love
-51. Tally Hall
+Tally Hall
     - Just A Friend
     - Good Day (Radio Version)
     - Greener (Radio Version)
@@ -213,30 +251,32 @@
     - Ruler of Everything (Radio Version)
     - Just Apathy (2005 Release)
     - Haiku (2005 Release)
-52. Tears For Fears
+Tears For Fears
     - Everybody Wants To Rule The World
-53. The Beach Boys
+The Beach Boys
     - Good Vibrations
     - Wouldn't It Be Nice
     - Fun, Fun, Fun
     - Surfin' USA
     - Help Me, Rhonda
     - Kokomo
-54. The J. Geils Band
+The J. Geils Band
     - Centerfold
-55. The Police
+The Police
     - Message In A Bottle (S.O.S. To The World)
     - Don't Stand So Close To Me
     - Every Little Thing She Does Is Magic
     - Every Breath You Take
-56. The Romantics
+The Romantics
     - Talking In Your Sleep
     - What I Like About You
-57. There I Ruined It
+The Strokes
+    - The Adults Are Talking
+There I Ruined It
     - Africa (Toto)...but it's every country in Africa
-58. Tommy Tutone
+Tommy Tutone
     - 867-5309 / Jenny
-59. Twenty One Pilots
+Twenty One Pilots
     - The Line (LIVE at The Game Awards 2024) [Arcane League of Legends]
     - City Walls
     - RAWFEAR
@@ -255,7 +295,17 @@
     - I Need Something [Level of Concern]
     - Doubt (demo)
     - O Come, O Come, Emmanuel (LIVE at Five14 Church, Columbus, OH)
-60. Yes
+Weezer
+    - Perfect Situation
+    - Grapes of Wrath
+    - La Muncha Screwjob
+    - Run, Raven, Run
+    - We Might As Well Be Strangers
+    - Island in the Sun
+    - Africa (ft. Weird Al)
+    - Surf Wax America (2024 Remaster)
+    - Holiday (2024 Remaster)
+Yes
     - Owner of a Lonely Heart
     - It Can Happen
     - Changes
